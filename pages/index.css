@@ -1,0 +1,35 @@
+@import '../vendor/normalize.css';
+@import '../vendor/variables.css';
+@import '../vendor/fonts/fonts.css';
+/* Blocks */
+@import '../blocks/page/page.css';
+/* Header */
+@import '../blocks/header/header.css';
+@import '../blocks/header/__title/header__title.css';
+@import '../blocks/header/__nav/header__nav.css';
+/* Main */
+@import '../blocks/main/main.css';
+/* Footer */
+@import '../blocks/footer/footer.css';
+@import '../blocks/footer/__copyright/footer__copyright.css';
+@import '../blocks/footer/__credit/footer__credit.css';
+@import '../blocks/footer/__wrap/footer__wrap.css';
+/* Nav */
+@import '../blocks/nav/nav.css';
+@import '../blocks/nav/__img/nav__img.css';
+@import '../blocks/nav/__item/nav__item.css';
+@import '../blocks/nav/__link/nav__link.css';
+@import '../blocks/nav/__list/nav__list.css';
+@import '../blocks/nav/__picture/nav__picture.css';
+/* dota-items */
+@import '../blocks/dota-items/dota-items.css';
+@import '../blocks/dota-items/__card/dota-items__card.css';
+@import '../blocks/dota-items/__img/dota-items__img.css';
+@import '../blocks/dota-items/__name/dota-items__name.css';
+@import '../blocks/dota-items/__picture/dota-items__picture.css';
+@import '../blocks/dota-items/__title/dota-items__title.css';
+@import '../blocks/dota-items/__wrap/dota-items__wrap.css';
+/* About */
+@import '../blocks/about/about.css';
+@import '../blocks/about/__descr/about__descr.css';
+@import '../blocks/about/__title/about__title.css';
