@@ -1,4 +1,12 @@
-.dota-items__card
-{
-    
+.dota-items__card {
+}
+
+@media (max-width: 767px) {
+  .dota-items__card {
+    width: 70vw;
+    margin-top: 10%;
+  }
+  .dota-items__card:first-child {
+    margin-top: 0;
+  }
 }

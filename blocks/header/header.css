@@ -1,3 +1,7 @@
-.header{
-  
+.header {
+  background: center/cover no-repeat url("../../images/header/image\ 2.png");
+  height: 100vh;
+  padding-top: 40px;
+  color: var(--text-white);
+  font-family: 'Almendra';
 }

@@ -1,4 +1,7 @@
-.footer__wrap
-{
-    
+.footer__wrap {
+  display: flex;
+  font-weight: 400;
+  font-size: 17px;
+  justify-content: space-between;
+  font-family: 'Open Sans';
 }

@@ -1,4 +1,12 @@
-.nav
-{
-    
+.nav {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  align-items: center;
+}
+
+@media (max-width: 479px) {
+  .nav {
+    width: 290px;
+  }
 }

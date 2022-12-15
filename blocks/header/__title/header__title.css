@@ -1,3 +1,24 @@
-.header__title{
-  
+.header__title {
+  font-weight: 700;
+  font-size: 110px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 240px;
+  width: 510px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+@media (max-width: 767px) {
+  .header__title {
+    font-size: 84px;
+    width: 330px;
+  }
+}
+
+@media (max-width: 479px) {
+  .header__title {
+    font-size: 60px;
+    width: 285px;
+  }
 }

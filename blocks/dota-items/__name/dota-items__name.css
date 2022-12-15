@@ -1,4 +1,22 @@
-.dota-items__name
-{
-    
+.dota-items__name {
+  font-size: 50px;
+  text-align: center;
+  margin: 0;
+  margin-top: 10px;
+}
+
+@media (max-width: 1023px) {
+  .dota-items__name {
+    font-size: 30px;
+  }
+}
+@media (max-width: 767px) {
+  .dota-items__name {
+    font-size: 40px;
+  }
+}
+@media (max-width: 479px) {
+  .dota-items__name {
+    font-size: 20px;
+  }
 }

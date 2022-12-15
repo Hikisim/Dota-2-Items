@@ -1,4 +1,13 @@
-.dota-items__wrap
-{
-    
+.dota-items__wrap {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 767px) {
+  .dota-items__wrap {
+    flex-direction: column;
+    width: 70vw;
+    margin: 0 auto;
+  }
 }

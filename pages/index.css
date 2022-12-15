@@ -33,3 +33,5 @@
 @import '../blocks/about/about.css';
 @import '../blocks/about/__descr/about__descr.css';
 @import '../blocks/about/__title/about__title.css';
+/* Container */
+@import '../blocks/container/container.css';

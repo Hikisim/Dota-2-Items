@@ -1,4 +1,8 @@
 .about__descr
 {
-    
+    text-align: center;
+    font-weight: 400;
+    width: 80vw;
+    font-size: 26px;
+    margin: 0 auto;
 }
